@@ -1,4 +1,4 @@
-# 🌟 Hi, I'm **Wisdom Akanwe** (Wiz)  
+#  Hi, I'm **Wisdom Akanwe** (Wiz)  
 ### *Mathematics & Computer Science @ Kenyon College • Software Engineer • Impact-Driven Builder*
 
 ---
