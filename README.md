@@ -1,11 +1,11 @@
 #  Hi, I'm **Wisdom Akanwe** (Wiz)  
-### *Mathematics & Computer Science @ Kenyon College • Software Engineer • Impact-Driven Builder*
+### *Mathematics & Computer Science @ Kenyon College • Software Engineer • Impact-Driven Builder, Founder*
 
 ---
 
 ## 👋 About Me  
 I'm a junior at **Kenyon College** studying **Mathematics & Computer Science**, passionate about using technology to create real-world impact.  
-I love building tools, systems, and communities that help people — from educational technology to AI solutions to social-good platforms.
+I love building tools, systems, and communities that help people — from educational technology to AI solutions to social-good platforms. I am also a co-founder to the platform **Pitches**
 
 ---
 
